@@ -36,3 +36,22 @@ E:\Privat (echt)\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\refint\Peppe
 E:\Privat (echt)\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.pdb
 E:\Privat (echt)\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.genruntimeconfig.cache
 E:\Privat (echt)\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\ref\Pepper Music.dll
+C:\Users\cavad\Source\Repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.dll
+C:\Users\cavad\Source\Repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\refint\Pepper Music.dll
+C:\Users\cavad\Source\Repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.pdb
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\bin\Debug\net6.0-windows\Pepper Music.exe
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\bin\Debug\net6.0-windows\Pepper Music.deps.json
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\bin\Debug\net6.0-windows\Pepper Music.runtimeconfig.json
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\bin\Debug\net6.0-windows\Pepper Music.dll
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\bin\Debug\net6.0-windows\Pepper Music.pdb
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.csproj.ResolveComReference.cache
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper_Music.Form1.resources
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.csproj.GenerateResource.cache
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.AssemblyInfoInputs.cache
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.AssemblyInfo.cs
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.csproj.CoreCompileInputs.cache
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.sourcelink.json
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\Pepper Music.genruntimeconfig.cache
+C:\Users\cavad\source\repos\Pepper-Music\Pepper Music\obj\Debug\net6.0-windows\ref\Pepper Music.dll

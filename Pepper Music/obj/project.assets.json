@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\basti\\.nuget\\packages\\": {},
+    "C:\\Users\\cavad\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Privat (echt)\\Pepper-Music\\Pepper Music\\Pepper Music.csproj",
+      "projectUniqueName": "C:\\Users\\cavad\\source\\repos\\Pepper-Music\\Pepper Music\\Pepper Music.csproj",
       "projectName": "Pepper Music",
-      "projectPath": "E:\\Privat (echt)\\Pepper-Music\\Pepper Music\\Pepper Music.csproj",
-      "packagesPath": "C:\\Users\\basti\\.nuget\\packages\\",
-      "outputPath": "E:\\Privat (echt)\\Pepper-Music\\Pepper Music\\obj\\",
+      "projectPath": "C:\\Users\\cavad\\source\\repos\\Pepper-Music\\Pepper Music\\Pepper Music.csproj",
+      "packagesPath": "C:\\Users\\cavad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cavad\\source\\repos\\Pepper-Music\\Pepper Music\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\basti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cavad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -70,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
